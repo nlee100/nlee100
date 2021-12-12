@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nlee100!
 - 👀 I’m interested in the application of UI/UX and data science to healthcare technologies.
-- 🌱 I’m currently double-concentrating in CS and English at Brown University.
+- 🌱 I’m currently studying CS at Brown University.
 - 💞️ I’m looking to collaborate on projects where I can learn and contribute and meet new people. :)
 - 📫 Reach out to me via email or LinkedIn!
 

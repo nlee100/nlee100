@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nlee100!
 - 👀 I’m interested in the application of statistical learning and data science to healthcare technologies.
-- 🌱 I received a master's in computer science at Brown University in 2022.
+- 🌱 I most recently completed my M.S. in computer science at Brown University in 2022.
 - 💞️ I’m looking to collaborate on projects where I can learn and contribute and meet new people. :)
 - 📫 Reach out to me via email or LinkedIn!
 
